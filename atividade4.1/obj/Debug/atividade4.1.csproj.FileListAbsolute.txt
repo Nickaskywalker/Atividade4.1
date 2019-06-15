@@ -1,0 +1,5 @@
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atividade4.1\atividade4.1\bin\Debug\atividade4.1.exe
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atividade4.1\atividade4.1\bin\Debug\atividade4.1.pdb
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atividade4.1\atividade4.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atividade4.1\atividade4.1\obj\Debug\atividade4.1.exe
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atividade4.1\atividade4.1\obj\Debug\atividade4.1.pdb
